@@ -1,0 +1,9 @@
+5. https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
+6. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+
+7. https://leetcode.com/problems/left-and-right-sum-differences/
+
+8. https://leetcode.com/problems/running-sum-of-1d-array/
+
+9. https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/
